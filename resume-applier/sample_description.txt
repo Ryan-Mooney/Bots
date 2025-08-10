@@ -1,0 +1,28 @@
+About the job
+Senior Software Engineer
+
+ 
+
+We have a great opportunity for a responsible for developing, maintaining, and improving applications built upon the Windows platform to support innovative solutions created for the commercial nuclear sector of the energy market. The ideal candidate will have a sound working knowledge of programming languages while employing solid design principles.
+
+ 
+Your Day to Day: 
+ 
+Design, develop, implement, support, and maintain nuclear applications based on business requirements and customer specifications using approved technologies and coding standards.
+Design, develop, implement, support, and maintain software components and systems to adhere to and satisfy engineering, scientific, regulatory, and manufacturing requirements.
+Act as a principal level in design development, coding, testing, and debugging new and legacy applications.
+Apply secure coding practices to prevent security vulnerabilities in code and apply object-oriented principles when implementing solutions.
+Maintain code quality through unit testing and documentation.
+Communicate with business partners to gather accurate specifications for new enhancements and applications.
+Maintain knowledge of application security best practices and modern vulnerabilities
+ 
+What we’d like to see from you: 
+
+ 
+
+B.S. in Computer Science, Electrical/Electronic Engineering or equivalent.
+7+ years of experience in hardware / software development and testing.
+Experience with Emerson Ovation data acquisition systems.
+Familiarity with Cisco switch configuration desired.
+Experience writing requirements specifications, test procedures, user’s guides and test reports.
+Excellent verbal and written communication skills.

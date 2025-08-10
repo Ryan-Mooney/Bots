@@ -1,0 +1,40 @@
+Ryan Mooney
+Phone: (724) 709-3936	      Email: mooneyryanj@gmail.com      LinkedIn: https://www.linkedin.com/in/ryanjohnmooney Portfolio: www.Ryan-Mooney.com		              	Git: gitlab.com/ryan.mooney, github.com/Ryan-Mooney
+
+LANGUAGES, LIBRARIES AND TOOL PROFICIENCIES
+
+Proficient Languages:  React, Python, Clojurescript, Reagent, Javascript, Typescript, SQL, HTML, CSS
+Proficient Tools: Django, Git, Docker, AWS Cloud, REST APIs, Mailgun, Reagent, Pyspark, Panda, Linux, MongoDB, CI/CD, Agile, DevOps
+
+
+EDUCATION
+Bachelors of Science, Biomedical Engineering, University of Pittsburgh, Pittsburgh PA             Graduation: Spring 2014
+Swanson’s School of Engineering
+GPA: 3.5, Graduated Cum Laude
+Major: BioEngineering; Concentration: Medical Device Engineering; Minor: Chemistry, Mechanical Engineering
+
+WORK EXPERIENCE
+Nielsen LLC, Pittsburgh, PA							         September 2019 - September 2024
+Software Engineer
+Gracenote Audience Predict	                   Languages/Utilities: React, Reagent/Re-frame, Clojurescript, Python
+Using React native technologies and packages, created reusable components for use in applications such as overlays, graphical displays, and menu widgets that all load independently and were updateable on the fly
+Using in-depth market research, identified potential areas for viewer retention improvement, resulting in the development of a cutting-edge algorithmic application that accurately predicted audience behavior patterns for TV networks and streaming platforms, leading to multi-million dollar client deals in TV and streaming.
+Created automatic containerized testing protocols in the CI/CD to identify issues before deployments occurred, resulting in less application downtime and improved functionality.
+Partnered with clients to identify pain points in the frontend UI design and implemented strategic changes to enhance user experience, resulting in improved access to high-end client contracts and increased revenue opportunities.
+
+Media Application Framework					Languages/Utilities: Typescript, Javascript, SQL 
+Redesigned and consolidated a critical company-wide cloud-based internal framework and added test automation processes to streamline application development processes, resulting in a 7% reduction in code bloat and increased efficiency across the multitude of containerized environments.
+Built and maintained RESTful APIs to facilitate seamless communication between multiple microservices within the framework, improving data flow and integration.
+Spearheaded the creation of documentation and presentation materials to guide teams through the framework adoption process, leading to a 40% decrease in onboarding time for new users.
+
+MA Airflow Configurator		                  Languages/Utilities: Clojurescript, React, Re-frame/Reagent, Python
+Led a small team in creating a clojurescript application from scratch that streamlined data analytics Airflow jobs by developing a simplified UI for creating, editing, and saving configurations used for querying media databases.
+Designed and implemented a side-by-side JSON text editor to Airflow Form Configuration, providing real-time visualization of analysts' created forms during the design process.
+
+Mercy Medical Center, Cedar Rapids, IA						        February 2018- July 2019
+Clinical Engineer and Networking Liaison
+
+MobileView Assistant				    Languages/Libraries: Django, Python, SQL, Selenium, Tkinter
+Developed a standalone Python application using Selenium and hospital's Aeroscout RTL device finder to automate asset location tracking, resulting in a 95% reduction in time taken to find assets (2 hours manually to 5 minutes automated).
+Created exportable reports detailing asset location, PM status, location history, and other analytics from data stored in an SQLite database, improving staff efficiency and decision-making process.
+Collaborated with technicians and management to identify cost-saving opportunities through accurate asset tracking and reporting.
